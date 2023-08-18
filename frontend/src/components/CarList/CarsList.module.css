@@ -1,0 +1,11 @@
+.spinner {
+	display: flex;
+	justify-content: center;
+	padding: 50px;
+}
+
+.card {
+	width: auto;
+	min-height: 160px;
+	min-width: 170px;
+}
